@@ -1,5 +1,4 @@
 // 1.challenge
-//mini
 // setup options prop for Options component
 // render the length of the array
 
